@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[hello world]]></title>
         <description><![CDATA[hello world]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hello-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 05:40:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 00:13:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hello-world/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Blah Blah Blah. How do I get my money back?</p>]]></description>
+            <link>https://thegrid.ai/hello-world/blah-blah-blah-how-do-i-get-my-money-back/index.html</link>
+            <guid isPermaLink="false">bf8d6074-f2b5-4e4f-a62c-6b94cf4dcd37</guid>
+            <pubDate>Fri, 15 Apr 2016 00:13:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada sit amet elit eu molestie.]]></title>
             <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada sit amet elit eu molestie.</h1><h2>Pellentesque habitant morbi</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a justo vitae nulla vulputate posuere vel quis nunc. Quisque et convallis nunc. Sed ac laoreet odio. Sed congue tincidunt pellentesque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam pellentesque risus ac libero ullamcorper, vitae consectetur tellus lobortis.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b080ec6-e4c0-4eb4-8428-53d6f8c43748.jpg"></article>]]></description>
-            <link>undefinedlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed/index.html</link>
+            <link>https://thegrid.ai/hello-world/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed/index.html</link>
             <guid isPermaLink="false">ed6dafa0-6d9f-42cc-bdac-639721d1e870</guid>
             <pubDate>Sun, 20 Mar 2016 05:39:17 GMT</pubDate>
         </item>
